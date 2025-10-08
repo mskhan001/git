@@ -1,3 +1,3 @@
 #include <string>
 
-int main() { const std::string str = "MAIN: V1"; }
+int main() { const std::string str = "MAIN: V1 | FEATURE/1: FIX1"; }
